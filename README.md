@@ -35,7 +35,16 @@ It answers questions like:
 
 ---
 
+## 🔍 Key Insights
+
+- High focus sessions produced the highest average mock scores.
+- Math received the maximum study time.
+- English showed the strongest performance despite fewer study hours.
+- Consistent daily study patterns improved outcomes.
+
 ## 🛠️ Tech Stack
+
+---
 
 | Tool | Purpose |
 |------|---------|
