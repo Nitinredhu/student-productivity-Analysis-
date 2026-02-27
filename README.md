@@ -78,28 +78,6 @@ It answers questions like:
 
 ---
 
-## 📁 Project Structure
-
-```
-student-productivity-dashboard/
-│
-├── 📂 data/
-│   └── study_log_30days.csv       # Raw dataset (30 days, 5 subjects)
-│
-├── 📂 sql/
-│   └── analysis_queries.sql       # All SQL queries used
-│
-├── 📂 dashboard/
-│   └── student_dashboard.pbix     # Power BI dashboard file
-│
-├── 📂 images/
-│   └── dashboard_preview.png      # Dashboard screenshot
-│
-└── README.md
-```
-
----
-
 ## 🗄️ SQL Analysis Performed
 
 ```sql
@@ -127,8 +105,8 @@ FROM study_log GROUP BY date, subject ORDER BY date;
 ## 👤 Author
 
 **Nitish**
-- 🔗 [LinkedIn](#)
-- 💻 [GitHub](#)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nitish-redhu/)
+- 💻 [GitHub](https://github.com/Nitinredhu)
 
 ---
 
