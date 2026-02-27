@@ -1,0 +1,91 @@
+Date,Subject,Study_Hours,Mock_Score,Revision,Focus_Level,Focus_Score
+01-01-2024,Math,2.5,68,Yes,High,3
+01-01-2024,Reasoning,1.5,62,No,Medium,2
+01-01-2024,English,1,70,Yes,High,3
+02-01-2024,GK,1.5,55,No,Low,1
+02-01-2024,Math,2,70,Yes,Medium,2
+02-01-2024,Current Affairs,1,60,No,Medium,2
+03-01-2024,Reasoning,2.5,65,Yes,High,3
+03-01-2024,English,1.5,72,Yes,High,3
+03-01-2024,Math,1,71,No,Medium,2
+04-01-2024,GK,2,58,Yes,Medium,2
+04-01-2024,Current Affairs,1.5,62,No,Low,1
+04-01-2024,Reasoning,1,66,No,Medium,2
+05-01-2024,Math,3,74,Yes,High,3
+05-01-2024,English,1,73,No,Medium,2
+05-01-2024,GK,0.5,56,No,Low,1
+06-01-2024,Current Affairs,2,64,Yes,High,3
+06-01-2024,Reasoning,1.5,68,Yes,High,3
+06-01-2024,Math,1,75,No,High,3
+07-01-2024,English,2,75,Yes,High,3
+07-01-2024,GK,1,60,No,Medium,2
+07-01-2024,Reasoning,1.5,69,Yes,Medium,2
+08-01-2024,Math,1,73,No,Low,1
+08-01-2024,Current Affairs,1,63,No,Low,1
+08-01-2024,GK,0.5,57,No,Low,1
+09-01-2024,Reasoning,2,70,Yes,Medium,2
+09-01-2024,English,1.5,76,Yes,High,3
+09-01-2024,Math,2,76,Yes,High,3
+10-01-2024,GK,2.5,62,Yes,High,3
+10-01-2024,Current Affairs,1.5,66,Yes,Medium,2
+10-01-2024,Math,1,77,No,Medium,2
+11-01-2024,English,2,77,Yes,High,3
+11-01-2024,Reasoning,1.5,71,No,Medium,2
+11-01-2024,GK,0.5,59,No,Low,1
+12-01-2024,Math,3.5,79,Yes,High,3
+12-01-2024,Current Affairs,1,67,No,Medium,2
+12-01-2024,Reasoning,1,72,Yes,Medium,2
+13-01-2024,English,1.5,78,Yes,High,3
+13-01-2024,GK,1.5,61,Yes,Medium,2
+13-01-2024,Math,1,78,No,Medium,2
+14-01-2024,Current Affairs,0.5,65,No,Low,1
+14-01-2024,Reasoning,0.5,70,No,Low,1
+14-01-2024,GK,0.5,58,No,Low,1
+15-01-2024,Math,2.5,80,Yes,High,3
+15-01-2024,English,2,79,Yes,High,3
+15-01-2024,Reasoning,1.5,73,Yes,High,3
+16-01-2024,GK,2,63,Yes,Medium,2
+16-01-2024,Current Affairs,1.5,68,Yes,Medium,2
+16-01-2024,Math,1,81,No,High,3
+17-01-2024,English,1.5,80,Yes,High,3
+17-01-2024,Reasoning,2,74,Yes,High,3
+17-01-2024,GK,1,62,No,Medium,2
+18-01-2024,Math,1,79,No,Low,1
+18-01-2024,Current Affairs,1,67,No,Low,1
+18-01-2024,GK,0.5,60,No,Low,1
+19-01-2024,Reasoning,2.5,76,Yes,High,3
+19-01-2024,English,1.5,81,Yes,High,3
+19-01-2024,Math,2,82,Yes,High,3
+20-01-2024,GK,2,64,Yes,Medium,2
+20-01-2024,Current Affairs,2,70,Yes,High,3
+20-01-2024,Reasoning,1,75,No,Medium,2
+21-01-2024,English,2.5,82,Yes,High,3
+21-01-2024,Math,1.5,83,Yes,High,3
+21-01-2024,GK,0.5,62,No,Low,1
+22-01-2024,Current Affairs,1.5,71,Yes,Medium,2
+22-01-2024,Reasoning,1.5,77,Yes,Medium,2
+22-01-2024,Math,1,82,No,Medium,2
+23-01-2024,English,2,83,Yes,High,3
+23-01-2024,GK,1.5,65,Yes,Medium,2
+23-01-2024,Reasoning,1,76,No,Medium,2
+24-01-2024,Math,3,85,Yes,High,3
+24-01-2024,Current Affairs,1,72,No,Medium,2
+24-01-2024,English,1,83,No,High,3
+25-01-2024,GK,2.5,67,Yes,High,3
+25-01-2024,Reasoning,1.5,78,Yes,High,3
+25-01-2024,Math,1,84,No,High,3
+26-01-2024,English,1,82,No,Low,1
+26-01-2024,Current Affairs,0.5,70,No,Low,1
+26-01-2024,GK,0.5,63,No,Low,1
+27-01-2024,Math,2,86,Yes,High,3
+27-01-2024,Reasoning,2,79,Yes,High,3
+27-01-2024,English,1.5,84,Yes,High,3
+28-01-2024,GK,2,68,Yes,Medium,2
+28-01-2024,Current Affairs,1.5,73,Yes,Medium,2
+28-01-2024,Math,1,85,No,Medium,2
+29-01-2024,Reasoning,2.5,80,Yes,High,3
+29-01-2024,English,1.5,85,Yes,High,3
+29-01-2024,Math,2,87,Yes,High,3
+30-01-2024,GK,2,70,Yes,High,3
+30-01-2024,Current Affairs,2,75,Yes,High,3
+30-01-2024,Reasoning,1,81,Yes,Medium,2
