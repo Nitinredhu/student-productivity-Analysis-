@@ -115,7 +115,6 @@ FROM study_log GROUP BY date, subject ORDER BY date;
 
 **Nitish**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nitish-redhu/)
-- 💻 [GitHub](https://github.com/Nitinredhu)
 
 ---
 
