@@ -54,6 +54,11 @@ It answers questions like:
 
 ---
 
+## 📊 Dashboard Preview
+
+> ![Dashboard Preview](dashboard.png)
+
+---
 ## 📈 Dashboard Highlights
 
 | KPI | Value |
