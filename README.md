@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Dashboard Preview](student_productivity_visualizations.pdf)
+![Dashboard Preview](dashboard.png)
 
 <br/>
 
@@ -54,11 +54,6 @@ It answers questions like:
 
 ---
 
-## 📊 Dashboard Preview
-
-> ![Dashboard Preview](dashboard.png)
-
----
 ## 📈 Dashboard Highlights
 
 | KPI | Value |
