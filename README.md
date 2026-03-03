@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 <br/>
 
